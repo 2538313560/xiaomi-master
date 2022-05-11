@@ -9,7 +9,6 @@
 
 ## 技术栈
 
-![](http://oph264zoo.bkt.clouddn.com/17-8-18/62079529.jpg)
 
 【前端】
 
@@ -102,10 +101,3 @@ $ npm run dev
 # 运行 Node.js
 $ node server/bin/www
 ```
-
-
-## License
-
-The code is available under the [MIT license](https://opensource.org/licenses/MIT).
-
-<!-- ![](http://oph264zoo.bkt.clouddn.com/17-8-11/10545126.jpg) -->
